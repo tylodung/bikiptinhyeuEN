@@ -1,42 +1,44 @@
 ---
 published: true
 hidden: false
-title: Điều đàn ông chỉ làm với người phụ nữ họ yêu
+title: What men only do with the woman they love
 tags: styling react styled-components
 twitter_large: true
 image: ho-yeu.jpg
-custom_excerpt: Đàn ông và phụ nữ bày tỏ cách quan tâm và tình yêu của mình theo những cách khác nhau. Nếu một người đàn ông sẵn sàng để công khai thể hiện tình yêu với người phụ nữ, điều đó có nghĩa anh ấy yêu rất nhiều.
+custom_excerpt: Men and women express their interest and love in different ways. If a man is willing to openly express his love for a woman, that means he loves so much.
+
 
 ---
 
-Dưới đây là những biểu hiện khi một người đàn ông yêu thật lòng dành cho người phụ nữ của anh ấy:
+Here are the expressions when a man is in love with his wife:
 
-Lắng nghe
+Listen
 
-Bạn đã từng nghĩ rằng, đôi khi đàn ông cư xử như trẻ con, bạn không hoàn toàn sai. Hầu hết đàn ông đều tập trung vào thứ mà họ đam mê. Nếu họ yêu bạn, giọng nói của bạn như một âm thanh tuyệt vời truyền đến đôi tai bạn và anh ấy thích thú với những lời bạn nói ra.
+Have you ever thought that, sometimes men behave like children, you are not entirely wrong. Most men focus on what they are passionate about. If they love you, your voice sounds like a great message to your ears and he is enjoying the words you say.
 
-Quan tâm đến gia đình, bạn bè của bạn
+Interested in your family, friends
 
-Khi người đàn ông yêu thật lòng, anh ấy sẽ hiểu những gì quan trọng với bạn và làm cho bạn hạnh phúc. Nếu yêu bạn, anh ấy sẽ kiên nhẫn lắng nghe khi bạn chia sẻ những câu chuyện chi tiết về cuộc sống, người thân, bạn bè của bạn. Anh ấy nhận ra tầm quan trọng của họ trong đời sống của bạn và vì thế cũng tôn trọng gia đình, người thân, bạn bè của bạn như cách mà bạn tôn trọng họ.
+When a man truly loves, he will understand what is important to you and make you happy. If you love him, he will listen patiently when you share the detailed stories about your life, relatives, friends. He recognizes their importance in your life and therefore respects your family, your loved ones, your friends the way you respect them.
 
-Sẵn sàng làm mọi thứ để bạn cảm thấy hạnh phúc
+Willing to do everything for you to feel happy
 
-Đàn ông khi yêu sẽ luôn muốn thấy người mình yêu hạnh phúc. Họ sẽ ủng hộ hết thảy những điều mà người phụ nữ của mình muốn hay theo đuổi. Vì chỉ cần cô ấy vui, hạnh phúc thì họ cũng sẽ hạnh phúc. Họ sẽ luôn ở bên là chỗ dựa vững chắc để cô ấy hoàn thành điều mình muốn.
+Men love to always want to see their loved ones happy. They will support all the things that their women want or pursue. Because just happy, happy they will be happy. They will always be on the side of solid support for her to accomplish what she wants.
 
-Tình yêu là cả một chặng đường dài. Tìm thấy nhau, giữ lấy nhau và đi cùng nhau cả đời. Chẳng dễ dàng đâu. Nhưng nếu trong mấy tỉ người ngoài kia, bạn tìm thấy một chàng trai có thể sẵn sàng làm những điều này với bạn, thì xin chúc mừng anh ấy chính là người đàn ông dành cho bạn. Hãy tin rằng anh ấy sẽ luôn muốn ở bên và cùng bạn đi đến cuối con đường.
+Love is a long way. Find each other, hold each other and go together for life. It's not easy. But if out of the billions of people out there, you find a guy who might be willing to do this to you, congratulations on being the man for you. Believe that he will always want to be with you and go to the end of the road.
 
-Tự hào về những thành tựu của người phụ nữ mình yêu
+Take pride in the accomplishments of the woman you love
 
-Khi một người đàn ông yêu một người phụ nữ, tất cả những gì cô ấy có được, anh ấy cũng đều nghĩ nó là thành tích của chính mình. Nó gần giống như niềm tự hào của một người mẹ trước những thành tích của con mình. Một người đàn ông trong tình yêu thật chân thành sẽ không bao giờ cạnh tranh hay khó chịu trước những thành tích mà người phụ nữ của mình đạt được.
+When a man loves a woman, all she has is, he thinks it is his own. It is almost like the pride of a mother before her son's achievements. A man in sincere love will never be competitive or upset over the accomplishments of his woman.
 
-Cố gắng thay đổi vì bạn
+Try to change for you
 
-Ai cũng có sai lầm cả, không ai là ngoại lệ. Người đàn ông của bạn cũng sẽ như thế. Nhưng không quan trọng là anh ta đã sai những gì, cốt yếu là anh ta đã vì bạn mà cố gắng sửa sai, thay đổi như thế nào. Bạn hãy nhìn vào cách anh ấy thay đổi mỗi ngày vì bạn. Và chỉ có khi đàn ông yêu thương thật lòng mới chấp nhận thay đổi vì người khác. Đó là cách họ thể hiện sự quý trọng và yêu thương với người phụ nữ của mình
+Everyone has made mistakes, no one is an exception. Your man will be like that too. But it does not matter what he is wrong, it is essential he has for you that try to correct, change how. Look at how he changes every day for you. And only when men truly love accept change for the other. That is how they show respect and love to their women
 
-Không thể nào tránh khỏi những lúc bất đồng trong tình yêu nhưng cách ứng xử với nó sẽ tiết lộ mức độ tình cảm mà anh ấy dành cho bạn.
+It is impossible to avoid conflicts in love but how to deal with it will reveal the level of emotion that he gives you.
 
-Mỗi khi hai người xảy ra cãi vã, dù ai đúng, ai sai, anh ấy luôn cố gắng bình tĩnh để “hạ nhiệt”, để bạn bớt nóng và chấm dứt cuộc “chiến đấu” càng nhanh càng tốt. Hơn nữa, nếu bạn sai, anh áy luôn nhanh chóng tha thứ cho bạn để mối quan hệ được bình yên.
+Whenever two people are in a fight, no matter who is right, who is wrong, he always tries to calm down, to cool down and stop the fight as quickly as possible. Furthermore, if you are wrong, he will always forgive you for the relationship to be peaceful.
 
-Luôn thành thật với bạn
+Be honest with you
 
-Một khi yêu thật lòng, đàn ông sẽ luôn thành thật với người phụ nữ của họ. Họ sẽ không ngần ngại nói họ đang đi đâu, làm gì, như thế nào. Thật chí, họ sẽ sẵn sàng nói điều gì là tốt hay không tốt ở bạn. Chính là vì họ muốn cả hai và mối quan hệ tốt hơn. Họ hiểu, sự thành thật chính là điều không thể thiếu để giữ vững một mối quan hệ.
+When you love them honestly, men will always be honest with their women. They will not hesitate to say where they are going, what to do, how. In fact, they will be willing to say what is good or bad about you. It is because they want both and a better relationship. They understand that sincerity is indispensable to maintain a relationship.
+

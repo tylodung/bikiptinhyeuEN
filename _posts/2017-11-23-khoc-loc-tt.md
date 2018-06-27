@@ -1,40 +1,41 @@
 ---
 published: true
 hidden: false
-title: Chẳng lo phải khóc lóc đau khổ nữa bởi đã có thuốc chữa bệnh THẤT TÌNH rồi
+title: No worries to cry anymore suffering because of the drug has been misleading
 tags: styling react styled-components
 twitter_large: true
 image: that-tinh.jpg
-custom_excerpt: Tình yêu cũng là một bệnh “nghiện” và hoàn toàn có thể chữa trị nó bằng thuốc như chữa trị một căn bệnh thông thường trên cơ thể con người.
+custom_excerpt: Love is also a "addiction" and it is possible to treat it with medication such as treating a common illness in the human body.
+
 
 ---
 
-Brian Earp, nhà khoa học thuộc khoa Thần kinh của ĐH Oxford, tin rằng tình yêu cũng là một bệnh “nghiện” và hoàn toàn có thể chữa trị nó bằng thuốc như chữa trị một căn bệnh thông thường trên cơ thể con người.
+Brian Earp, a neuroscientist at the University of Oxford, believes that love is an addiction, and that it can be treated with medicine as a cure for a common illness in the human body.
 
-Ông Brian Earp và các cộng sự trong viện nghiên cứu đã tiến hành quan sát tình yêu và hoạt động của nó trong não bộ con người.
+Brian Earp and colleagues at the research institute observed love and its activity in the human brain.
 
-Mục đích chính của nghiên cứu này bao gồm việc theo dõi xem tình yêu bắt đầu như thế nào, phát triển ra sao, hay cách tình yêu giảm dần và kết thúc thế nào.
+The main purpose of this study is to track how love begins, how it develops, or how it gradually and diminishes.
 
-Nhóm chuyên gia của ĐH Oxford bắt đầu nghiên cứu đến tác động của thuốc lắc, có tên hóa học viết tắt là MDMA. Đây là một loại chất phổ biến nhưng bất hợp pháp, dưới dạng một loại thuốc tăng độ hưng phấn cho thần kinh.
+Oxford University researchers began to study the effects of ecstasy, the chemical name for MDMA. This is a common but illegal substance, in the form of a drug that increases the excitability of the nervous system.
 
-“MDMA cho thấy một số cặp vợ chồng – trong điều kiện nghiên cứu lâm sàng với sự giúp đỡ của chuyên gia trị liệu – đã thay đổi suy nghĩ của họ và tiếp cận mối quan hệ một cách lành mạnh hơn.
+"MDMA shows that some couples - in terms of clinical studies with the help of therapists - have changed their minds and approached the relationship in a healthier way.
 
-Hoặc họ cũng có thể khám phá ra rằng mối quan hệ không còn phù hợp với mình nữa” – tạp chí Wired dẫn lời ông Earp nói.
+Or they may discover that the relationship is no longer relevant to us, "Wired magazine quoted Earp as saying.
 
-Earp cũng chỉ ra một số loại thuốc có tên SSRI có khả năng khiến bạn mất dần cảm giác quan tâm đến người khác, làm giảm bớt sự ràng buộc của bạn đối với một mối quan hệ mà bạn không còn hứng thú.
+Earp also points out that some drugs called SSRIs can make you lose interest in others, reducing your attachment to a relationship you no longer enjoy.
 
-Trải nghiệm sáu năm hễ uống thuốc vào là yêu say đắm
+The six-year experience of taking medication is a passionate affair
 
-Theo James, sau khi dùng thuốc, cảm giác mà anh có giống như là “khi bạn thấy cuộc sống thật tồi tệ thì có một người thân đến ôm chầm lấy bạn. Đó là một sự an ủi sâu sắc”. “Ngay tại thời điểm đó, bạn chỉ biết rằng mọi thứ đều ổn” – James nói.
+According to James, the feeling that he is like "when you see life is bad, there is a loved one to hug you. That is a deep consolation. " "Right now, you just know that everything is fine," James said.
 
-Trong khi đó theo Colleen, một nhân vật khác dùng MDMA được tạp chí Wired phỏng vấn, khi sử dụng thêm thuốc kích thích, anh và bạn đời của mình dễ dàng kết nối cảm xúc với nhau hơn thay vì phải tìm sự tư vấn của người ngoài cuộc.
+Meanwhile, according to Colleen, another character using MDMA was interviewed by Wired magazine, using more stimulant drugs, he and his partner easily linked emotionally instead of looking for counseling. outsider.
 
-Có thực sự tạo nên cảm xúc yêu đương?
+Is it really a love affair?
 
-Theo tạp chí Wired, mặt tối của việc sử dụng thuốc kích thích tình yêu xảy ra khi các cặp đôi nhầm lẫn giữa việc dùng thuốc để “hâm nóng” tình yêu đã có với việc dùng thuốc để “xây dựng một mối quan hệ”.
+The dark side of the use of love drugs occurs when couples mistakenly use drugs to "warm up" their loved ones with drugs to "build a relationship." .
 
-Thực tế cảm giác yêu đương này tuy thật tuyệt vời nhưng hoàn toàn không có thật. “Khi không có thuốc, tôi không thấy mình yêu cô ấy. Sự thật là chính MDMA đã tạo nên cảm giác yêu đương giả tạo này của tôi” – James khẳng định.
+In fact, this love feeling is wonderful but completely untrue. "When I do not have medicine, I do not find myself in love with her. The fact is that MDMA has created this fictional love affair for me, "James said.
 
-Trong khi đối với thuốc SSRI chữa thất tình, ông Earp cho rằng loại thuốc này cũng có thể gây ra một số tác dụng phụ khác nhau.
+While for SSRIs, Mr Earp said the drug could also cause a number of side effects.
 
-Theo đó, SSRI có thể làm giảm khả năng thấu cảm của người sử dụng nó với người khác, làm giảm ham muốn tình dục. Loại thuốc này cũng có thể bị người khác lạm dụng để “chia cắt” một cặp đôi đang yêu nhau, như các cặp đôi đồng tính.
+Accordingly, SSRIs may reduce the ability of the user to empathize with others, reducing sexual desire. This drug can also be abused by another person to "split" a couple in love, like gay couples.

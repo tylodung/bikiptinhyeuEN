@@ -1,26 +1,27 @@
 ---
 published: true
 hidden: false
-title: Chị em dễ mất chồng như chơi bởi cách ngoại tình mới mẻ này
+title: Siblings are easy to lose their husbands by playing this new kind of affair
 tags: styling react styled-components
 twitter_large: true
 image: 2411.jpg
-custom_excerpt: Ngoại tình qua mang tưởng rằng vô hại, nhưng thực ra chính là kiểu ngoại tình tư tưởng vô cùng nguy hiểm, vợ cần hết sức đề phòng nếu không có ngày trở tay không kịp.
+custom_excerpt: Adultery through the idea that it is harmless, but actually is the type of infidelity thought extremely dangerous, wife needs to take great precautions if there is no day to hand failed.
+
 
 ---
 
-Thực tế, đàn ông cũng rất cần được lắng nghe và chia sẻ, nhưng có thể họ không làm được điều đó với vợ của mình. Hoặc có khi họ muốn được nói, nhưng trách nhiệm mà họ gánh sẽ khiến cho họ không được quyền nói ra.
+In fact, men also need to be listened to and shared, but they may not be able to do so with their wives. Or maybe they want to be talked about, but the responsibility they bear will make them ineligible to speak.
 
-Vào năm 2015, trang web ngoại tình Ashley Madison đã bị lộ dữ liệu và tiết lộ bí mật động trời rằng có rất nhiều đàn ông có vợ thông qua trang web này để tìm bạn tình. Vụ hack dữ liệu này đã khiến cho không ít gia đình tan đàn, xẻ nghé. Công nghệ càng phát triển thì những mối nguy ảnh hưởng đến hạnh phúc gia đình càng ngày càng tăng lên.
+In 2001, Ashley Madison's adultery site was exposed and revealed the secret that many men have wives through this site to find a partner. The data hacking has made many families break up, split. As technology grows, the dangers that affect family well-being increase.
 
-Đàn ông tìm đến phương thức ngoại tình qua mạng do nhiều nguyên nhân. Phần lớn là do không hài lòng với cuộc sống hôn nhân hiện tại, không cảm thấy hạnh phúc với vợ hoặc không chia sẻ được với người bạn đời của mình. Khi cảm thấy xa cách với bạn đời, họ lại nghĩ rằng hai người không còn thân mật với nhau nữa, họ đổ lỗi cho bạn đời hoặc hôn nhân mà không nhận ra rằng chính khả năng bộc lộ cảm xúc của họ mới là điều khiến họ cảm thấy bất hạnh.
+Men find ways to infidelity online for many reasons. It is largely due to dissatisfaction with the current marriage, not happy with the wife or not shared with her partner. When they feel separated from their partners, they think that the two are no longer intimate, they blame their partner or marriage without realizing that their ability to express their emotions is what drives them. they feel unhappy.
 
-Trốn chạy những bà vợ lắm chiêu
+Run away the wife of the way
 
-Nhiều khi những bà vợ quá tai quái, ghê gớm cũng khiến đàn ông cảm thấy chán và sợ hãi. Hoặc việc ghen tuông vô độ của vợ cũng là một áp lực của đàn ông. Thế nhưng họ không dám trực tiếp ngoại tình mà chỉ có thể lên mạng tìm đối tượng để “trút bầu tâm sự”.
+Many wives, too, are horrible, making men feel bored and scared. Or insatiable jealousy of the wife is also a pressure of men. But they do not dare direct adultery but can only find the object to "pour out the heart".
 
-Đàn ông thích tìm sự mới mẻ và mong giữ lại những điều tốt đẹp đã có
+Men like to find new and look forward to keeping the good things there
 
-Chính nhu cầu tìm kiếm cái mới và mong tìm lại những cái cũ từng có đã khiến họ “chìm đắm” vào ảo tưởng, nơi những tình cảm không thể tỏ bày của họ được giải phóng. Sự mới mẻ mà họ tìm kiếm chính là những cảm xúc tươi mới, nồng nhiệt và tự do của tình yêu ngày xa xưa. Mặt khác, thế giới ảo luôn khiến con người dễ tưởng tượng, dễ mộng đẹp về nhau. Khi vào cuộc, đàn ông luôn thấy phấn khởi bởi những thú vị vàbí ẩnphía trước. Họ sẽ như những chú sư tử đực, càng dấn thân càng thích thú.
+The need to find new things and to look for old ones has made them "drowned" into illusions where their inexpressible emotions are freed. The freshness they seek is the fresh, passionate and free expression of love in the old days. On the other hand, the virtual world always makes people easy to imagine, dreaming about each other. At the end of the day, men are always excited by the pleasures and mysteries ahead. They will be like male lions, the more engaged they are.
 
-Thực chất, đàn ông có rất nhiều lí do khác nhau để tìm đến việc ngoại tình. Nhưng cốt lõi lại nằm trong chính mỗi gia đình. Khi chúng ta luôn đóng lại những cánh cửa để cảm thông, chia sẻ tức là chúng ta đang mở một con đường ra đi cho bạn đời của mình, dù là đàn ông hay đàn bà. Hãy giữ chặt hạnh phúc khi còn chưa quá muộn, bạn nhé!
+In essence, men have many different reasons for adultery. But the core is within each family. When we always close the door to sympathy, to share, we are opening a path for our mate, whether men or women. Keep holding on to your happiness when you're not too late!

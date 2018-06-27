@@ -1,40 +1,41 @@
 ---
 published: true
 hidden: false
-title: Người phụ nữ có dấu hiệu vàng này hãy cưới ngay kẻo lỡ
+title: The woman with this yellow sign should get married soon
 tags: styling react styled-components
 twitter_large: true
 image: anh-ay.jpg
-custom_excerpt: Nếu gặp một cô gái hội tụ đa phần những tiêu chuẩn dưới đây thì hãy cưới cô ấy ngay nhé!.
+custom_excerpt: If you meet a convergence girl most of the standards below, please marry her right away.
+
 
 ---
 
-Cô ấy biết đâu là thời điểm nên “làm nũng”
+She knows what is the time to "bump"
 
-Nhõng nhẽo luôn là một điều khiến con gái trở nên dễ thương hơn rất nhiều trong mắt đàn ông, nhưng nếu nàng luôn lạm dụng điều này – thì đã đến lúc cả hai nên có một cuộc nói chuyện rõ ràng nếu bạn không muốn mệt mỏi vì cứ phải luôn luôn chạy theo cô ấy.
+Bladdering is always one of the things that makes girls so much more beautiful in the eyes of men, but if you always abhor this - it's time for you to have a clear conversation if you do not want to be tired. You always have to run after her.
 
-Nàng biết nấu ăn
+You know how to cook
 
-Phụ nữ sinh ra với đặc quyền được quyến rũ trong 3 trường hợp: 1 là sau khi tắm, 2 là trong lúc tập thể dục và 3 là trong lúc nấu ăn. Hãy nhìn vào điều đó mà cố gắng hoàn thiện bản thân mình, hơn là luôn băn khoăn trong đầu: “Cơm tiệm ngon hơn”, “Cơm người giúp việc nấu khỏe hơn” và “Sao anh không vào bếp đi lại bắt tôi nấu?” .
+Women born with privileges are seduced in three cases: one after the bath, two during the exercise, and three during the cooking. Look at that, trying to perfect myself, rather than always fretting in my head: "Better restaurant," "Better cooked man," and "Why do not you go in the kitchen and get me cooking? ".
 
-Vì vậy, người đáng lấy làm vợ là một phụ nữ có thể nấu nướng và nấu ăn ngon.
+So, a man worthy of being a wife is a woman who can cook and cook well.
 
-Cô ấy độc lập
+She is independent
 
-Độc lập là chìa khóa của hạnh phúc cho cả đàn ông lẫn phụ nữ. Nếu chọn đúng người, bạn sẽ cảm thấy mình vẫn luôn luôn muốn tìm hiểu nàng nhiều hơn nữa mặc dù cả hai đã yêu nhau một khoảng thời gian dài; bởi vì cô ấy là một người phụ nữ độc lập và có khả năng quyết định mọi hành vi lẫn sở thích trong cuộc sống.
+Independence is the key to happiness for both men and women. If you choose the right person, you'll feel like you've always wanted to know her more even though you both have been in love for a long time; Because she is an independent woman and is capable of deciding every behavior and hobby in her life.
 
-Cô ấy là người có tư tưởng tình dục dễ chịu
+She is a pleasant sexist
 
-Dễ chịu ở đây không phải là dễ dãi. Dễ chịu mang nghĩa hai bạn có thể hòa hợp với nhau trên giường, bất kể dù trong tư thế hay hành động nào. Đây là một vấn đề quan trọng không kém bởi vì tình yêu của cả hai dù có nồng nàn đến đâu nhưng chỉ cần gặp một chút trục trặc trong chuyện chăn gối thôi thì bạn biết đấy, sẽ rất khó khăn cho cả bạn và nàng cùng có lại những giây phút thoải mái như ban đầu.
+Pleasant here is not easy. Pleasance means that you can get along with each other in bed, no matter what position or action you take. This is equally important because of how much love they both have, but just a little problem in the knee only you know, it will be difficult for both you and her. Have the moments as comfortable as the original.
 
-Nàng có nụ cười tươi, tiếng cười giòn
+She has a bright smile, a crisp laugh
 
-Tính hài hước là điều quan trọng nhất ở một người phụ nữ. Vì vậy, người phụ nữ bạn yêu nên là người có khiếu hài hước. Bên cạnh đó, người bạn muốn lấy làm vợ phải là một người tử tế, chân thành, thích phiêu lưu nhưng trên hết vẫn là sự hài hước. Tiếng cười thoải mái và tình yêu dành cho nhau là điều sẽ tạo nên một mối quan hệ lâu bền.
+Humor is the most important thing in a woman. So, the woman you love should be a person with a sense of humor. Besides, the person you want to marry is a kind, sincere, adventurous person, but above all humor. Laughter and love for each other will create a lasting relationship.
 
-Yêu thích, hòa hợp với không khí gia đình và bạn bè của bạn
+Favorites, in harmony with the atmosphere of your family and friends
 
-Một người bạn gái tuyệt vời sẽ nỗ lực tìm hiểu những ai đang có ảnh hưởng xung quanh bạn.
+A great girlfriend will try to find out who is influencing you.
 
-Đồng thời, người chồng nào cũng đánh giá cao một người vợ biết chăm sóc nhà cửa gọn gàng, chăm sóc con cái khỏe mạnh.
+At the same time, every husband appreciates a wife who takes care of her neat house, caring for healthy children.
 
-Họ cũng cần một người phụ nữ yêu gia đình, yêu chồng con. Dĩ nhiên điều này hoàn toàn trái ngược với những phụ nữ chỉ chăm chăm công việc, suốt ngày ở cơ quan, đêm khuya mới về nhà và tối về vẫn cặm cụi với công việc; hoặc nhữngcô gáiham chơi, thích tiệc tùng mà quên đi gia đình ở nhà.
+They also need a woman who loves her family, loves her husband and children. Of course this is in stark contrast to the women who only care for the work, all day at work, late at night to go home and work late at night; or girls who play, like partying, forget about family at home.

@@ -1,42 +1,43 @@
 ---
 published: true
 hidden: false
-title: Người ấy có yêu bạn hay không, hãy tinh mắt nhìn qua điểm này
+title: He loves you or not, let's look through this point
 tags: styling react styled-components
 twitter_large: true
 image: 2311.jpg
-custom_excerpt: Tinh yêu là thứ tình cảm xuất phát từ hai phía, nếu một trong hai người có sự giả dối không sớm thì muộn có ngày tình cảm sẽ đổ vỡ ngay. Có những người bắt đầu yêu nhưng khi yêu lại không yêu hết mình.
+custom_excerpt: Love is the emotion from the two sides, if one of the two falsehood sooner or later the emotional day will fall right away. There are people who start to love but when love does not love them all.
+
 
 ---
 
-Có những người từ khi mới bắt đầu đã là sự giả dối rồi. Trong những chuyện tình cảm, con gái luôn là người thiệt thòi nhất, vì vậy phòng chống và ngăn chặn “kẻ lừa đảo trái tim” là điều cần thiết nhất!
+Someone from the beginning was a lie. In love stories, girls are always the most disadvantaged, so prevention and prevention of "heart fraud" is the most necessary!
 
-Sau đây là những dấu hiệu cho thấy người ấy đang lừa dối bạn!
+Here are some signs that he is cheating on you!
 
-Họ bắt đầu giữ bí mật
+They began to keep secrets
 
-Ai cũng có ít hay nhiều bí mật, nhất là trong tình yêu, chuyện tâm sự, chia sẻ cho nhau những điều thầm kín là biểu hiện cho thấy bạn và người ấy thực sự chung thủy với nhau.
+Everyone has some or many secrets, especially in love, talk, sharing the secret is to show that you and the person really faithful to each other.
 
-Nếu đối phương bắt đầu che giấu mọi chuyện và không còn chia sẻ với bạn như trước là một dấu hiệu đáng ngại. Bởi một tình yêu lành mạnh không bao giờ có những bí mật không thể kể cho nhau nghe.
+If the enemy starts to hide things and no longer share with you as before is a sign of ominous. By a healthy love never have the secret can not tell each other.
 
-Nếu bạn phát hiện ra một chuyện gì đó và hỏi họ nhưng họ lại chối bay biến thì nhất định phía sau đó là một lời nói dối to đùng.
+If you find something and ask for it, but they refuse to fly, then it's a big lie.
 
-Khen bạn nhiều hơn (thậm chí có lời khen vô lí)
+Praise you more (even have unreasonable praise)
 
-Chẳng hạn, vẫn là chiếc váy mọi khi bạn mặc anh ấy cảm thấy chẳng được chút nào, nhưng giờ đây anh ấy lại liên tục đưa ra lời khen ngợi. Những lúc này thì không còn nghi ngờ gì nữa, anh ta đang dần thay đổi và cảm thấy có lỗi khi lừa dối bạn nên mới đưa ra lời khen để khiến bạn an tâm hơn.
+For instance, it's still a dress that you wear whenever you wear it, but now he's constantly giving praise. At this time, there is no doubt that he is gradually changing and feel guilty when cheating you should give praise to make you more secure.
 
-Họ không nhìn vào mắt bạn
+They do not look in your eyes
 
-Người ấy dạo gần đây không còn giao tiếp bằng mắt với bạn? Thời gian họ nhìn vào điện thoại của mình hay tivi còn nhiều hơn là trò chuyện, tâm sự cùng bạn.
+Has he recently lost eye contact with you? The time they look at your phone or TV is more than talking, talking to you.
 
-Còn khi bạn tra hỏi, người ấy sẽ nhìn lung tung chứ không còn dám nhìn thẳng vào mắt bạn như trước. Theo các nhà tâm lý học, việc đối phương từ chối giao tiếp bằng mắt cho thấy họ đang âm mưu hoặc che giấu điều gì đó.
+When you ask, he will look awkward dare not look straight into your eyes as before. According to psychologists, the opponent's refusal to communicate visually reveals that they are plotting or hiding something.
 
-Tránh ở một mình với bạn
+Avoid being alone with you
 
-Nếu đối phương luôn có ý tránh khi ở riêng với bạn, nó là dấu hiệu cho thấy anh ta đang có một mối quan hệ ngoài luồng khác. Anh ta sợ phút giây đối diện riêng với bạn vì khi đó có thể bị bại lộ những cảm xúc và nói “hớ” điều gì đó.
+If the opponent is always trying to avoid being alone with you, it is a sign that he is having an out-of-the-way relationship. He is afraid of the opposite moment with you because then it can be exposed emotions and say "hello" something.
 
-Lịch trình thay đổi, không cố định
+Change schedule, not fixed
 
-Bình thường người ấy luôn có giờ giấc chuẩn, thế nhưng gần đây giờ giấc và thói quen sinh hoạt có nhiều thay đổi. Nhưng bây giờ bạn không thể biết được người ấy đang làm gì, ở đâu, với ai.
+Normally, he or she always has a standard time, but lately times and habits have changed a lot. But now you do not know what he is doing, where, with whom.
 
-Đây thực sự là một dấu hiệu quan trọng mà bạn không được chủ quan bỏ qua. Chẳng hạn người ấy đưa ra câu trả lời mâu thuẫn giữa lần trước với lần sau khi bạn hỏi thì có thể người ấy đã thiếu trung thực với bạn rồi!
+This is really an important sign that you are not being ignored. For example, he gives a conflicting answer between the last time and the next time you ask, he may be dishonest to you!

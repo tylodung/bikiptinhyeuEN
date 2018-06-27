@@ -1,31 +1,32 @@
 ---
 published: true
 hidden: false
-title: Tuyệt chiêu đối phó với bà cô
+title: Struggling to deal with her aunt
 tags: styling react styled-components
 twitter_large: true
 image: 2511.jpg
-custom_excerpt: Không hiếm những cô dâu phải vác đơn ra tòa chỉ sau một thời gian ngắn chung sống với mẹ chồng và sống chung với em gái chồng.
+custom_excerpt: It is not uncommon for brides to file a petition to court only after a short time of living with their mother-in-law and living with her sister.
+
 ---
 
-Nhiều người còn khẳng định rằng họ thà để hôn nhân tan vỡ còn hơn phải chịu đựng tới “hai bà mẹ chồng”.
+Many people insist that they would rather break up their marriage than suffer the "mother-in-law."
 
-Có lẽ, em gái chồng là một trong những mầm mống gây nên bất hòa giữa hai vợ chồng. Em chồng chẳng phải huyết thống, cũng chẳng phải do ta chọn, cho nên mối quan hệ với em chồng phải chăng chính là sự bắt buộc phải “chung sống” và chịu đựng nhau. Vì thế, để “trị” được “Giặc bên Ngô” thì cách tốt nhất không phải là việc hơn thua mà chính là cách “chinh phục”.
+Perhaps, her husband's sister is one of the germs that cause discord between the couple. My husband is not blood, nor is it my choice, so the relationship with her husband is the right to be forced to "live together" and endure. Therefore, in order to "dominate" the "Ngo side Ngo", the best way is not the loser but the "conquer".
 
-Chinh phục từ trước khi cưới
+Conquer before the wedding
 
-Không có ai “nguy hiểm” hơn em chồng, nhưng cũng không có ai giúp bạn ghi điểm với gia đình chồng giỏi hơn em gái chồng. Chính vì vậy ngay từ trước khi cưới hãy tranh thủ tình cảm của em chồng. Gặp gỡ, tiếp xúc, trò chuyện như hai người bạn gái, rủ nhau nấu ăn, mua sắm… sẽ khiến cho mối quan hệ giữa em chồng và chị dâu tương lai thân thiết hơn
+No one is "more dangerous" than your husband, but no one helps you score better with her husband than her husband. So before the wedding, take advantage of your husband's feelings. Meeting, meeting, chatting as two girlfriends, cooking together, shopping ... will make the relationship between husband and sister in the future more intimate.
 
-Nhờ chồng làm cầu nối
+Thanks husband for bridging
 
-Nhờ chồng làm ngoại giao để hai bên nhận được những thông tin gây thiện cảm về nhau. Đồng thời anh ta phải làm “nội ứng” thông báo cho người yêu biết chị hay em gái mình có những sở thích thế nào thì cô dâu mới biết cách mà “chiều”. Từ cách ăn mặc đến nói năng cư xử, cô dâu không nên quá khác biệt với em chồng.
+Ask your husband to do diplomacy so that the two sides get the information sympathetic about each other. At the same time, he has to do "internal affairs" to inform his lover how her sister or sister has hobbies, then the new bride knows how "dimensional". From dress to speech, the bride should not be too different from her husband.
 
-Luôn khen em chồng
+Always compliment her husband
 
-Khi cô dâu về nhà chồng chỉ nên khen mà không nên chê bất cứ điều gì nhất là về nhà cửa, nếp sinh hoạt của nhà chồng. Riêng em chồng cũng thế, chỉ nên khen chứ không nên chê. Đặc biệt, tuyệt đối không nói trước mặt em gái chồng những câu như so sánh khen gia đình mình, chê gia đình em chồng. Không kể xấu chồng trước mặt em gái chồng.
+When the bride to her husband's house should only praise that should not criticize anything especially home, the life of her husband. Particularly her husband, too, should be praised not recommended. In particular, absolutely do not say in front of her husband the same sentence as complimenting her family, her husband's husband family. Not bad husband in front of her husband.
 
-Tích cực làm mai mối cho em chồng
+Actively make matchmaker for her husband
 
-Nếu em chồng đã có người yêu thì phải đón tiếp nhiệt tình, tích cực vun vén, khen những điểm tốt của người yêu em chồng. Nếu chưa có bạn trai thì tích cực làm mai mối để vun vén hạnh phúc cho em chồng. Nhưng quan trọng nhất vẫn là dành cho em chồng tình cảm chân thật, coi như em gái mình để mà yêu thương, động viên, chỉ bảo.
+If your husband has a lover, he must welcome enthusiastically, actively cultivate, praise the good points of his husband's love. If you do not have a boyfriend actively positive matchmaking to cultivate happiness for her husband. But the most important is to give her husband real feelings, as her sister to love, motivate, instruct.
 
-Theo các nhà tâm lý, một gia đình thường dựa trên hai cơ sở: Mối quan hệ huyết thống và sự lựa chọn nhau. Tuy nhiên, quan hệ giữa cô dâu và chị em chồng lại nằm ngoài cả 2 cơ sở ấy. Không máu mủ ruột rà, không được lựa chọn nhau nhưng vẫn phải sống chung trong một mái nhà. Vì thế, việc họ không hợp nhau về tính cách, sở thích, quan điểm sống là điều dễ hiểu. Những cô dâu mới nên hiểu rõ vấn đề này mà xây dựng mối quan hệ dựa trên cơ sở vị tha và cảm thông.
+According to psychologists, a family is often based on two things: blood relations and choice. However, the relationship between the bride and the sibling lies outside both. No intestinal blood, not selected but still have to live in a roof. Therefore, their incompatibility with their personality, hobbies, and viewpoints is understandable. New brides should understand this issue that builds relationships based on altruism and sympathy.

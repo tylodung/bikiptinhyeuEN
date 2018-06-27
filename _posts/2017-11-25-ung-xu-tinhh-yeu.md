@@ -1,45 +1,46 @@
 ---
 published: true
 hidden: false
-title: Cách ứng xử trong tình yêu
+title: Behavior in love
 tags: styling react styled-components
 twitter_large: true
 image: tinh-yeu-dep.jpg
-custom_excerpt: Cách ứng xử thông minh với người yêu cho tình cảm thêm nồng thắm. Giữ tình yêu luôn đẹp và đầy sức sống trong quan hệ hai người là cả một nghệ thuật. Bởi vậy, bạn nên chú ý đến cách ứng xử trong tình yêu của mình.
+custom_excerpt: How to deal with intelligent love affair with more passionate. Keeping love always beautiful and full of vitality in the relationship of two people is an art. Therefore, you should pay attention to how to behave in your love.
+
 ---
 
-Đôi khi bạn không tránh khỏi cảm giác ghen tị khi nhìn vào tình yêu của người khác. Bạn thấy họ hạnh phúc, tình yêu thật đẹp, người yêu thật tuyệt vời… trong khi tình yêu của bạn lại gặp hết rắc rối này đến phức tạp khác. Thực tế, họ cũng không tránh khỏi những điều mà bạn từng gặp, chỉ có điều họ biết cách ứng xử trong tình yêu để được hạnh phúc hơn mỗi ngày.
+Sometimes you will not feel jealous of looking at other people's love. You see them happy, love is beautiful, love is wonderful ... while your love again to this trouble to another complex. In fact, they are not immune to the things you've seen, only they know how to behave in love to be happier every day.
 
-1/ Thể hiện tình yêu với người ấy mỗi ngày
+1 / Show love to him every day
 
-Sẽ là sai lầm nếu bạn chỉ quan tâm đến ngày sinh nhật của chàng, chăm chú lắng nghe những câu hỏi của chàng… Thể hiện tình yêu với người ấy mỗi ngày và qua từng hành động nhỏ nhặt nhất mới điều nên làm của một cô gái thông minh. Chỉ cần một giấc mơ thoáng qua, biết đâu đấy khi bạn hỏi chàng, hai người sẽ khám phá ra điểm tương đồng nào đó mà trước nay không ai hay biết.
+It would be wrong if you only care about his birthday, listen to his questions ... Show love to him every day and through every little thing new things to do of her smart girl. Just a fleeting dream, knowing that when you ask him, two people will discover some similarities that no one knew before.
 
-Hãy tự tạo ra những cơ hội nho nhỏ để thể hiện tình yêu và quan tâm đến người yêu dấu như pha một ly nước cam vào mỗi sáng, một nụ hôn khi gặp mặt và trước lúc tạm biệt, một tin nhắn trước giờ đi ngủ… Trao đi bao nhiêu yêu thương, bạn sẽ nhận lại bấy nhiêu tình cảm.
+Make your own little opportunities to express your love and concern for your loved one, such as having a glass of orange juice every morning, having a kiss before and after a goodbye, a text message before bedtime How much love you give, you will receive more love.
 
-2/ Duy trì sự lãng mạn trong tình yêu và chú trọng những điểm thu hút đối phương
+2 / Maintain the romance in love and focus on the attraction of the enemy
 
-Sự lãng mạn sẽ là ngọn lửa ngầm nuôi dưỡng sự ấm áp trong tình yêu. Khi sự lãng mạn mất đi, tình cảm có thể vẫn còn nhưng tình yêu chắc chắn sẽ không còn nồng cháy như thuở ban đầu nữa.
+The romance will be an undercurrent of warmth in love. When romance is lost, love can remain but love will no longer burn as it did in the beginning.
 
-Thêm vào đó, cô gái thông minh khi yêu là cô nàng luôn chú trọng đến những điểm có thể thu hút người yêu. Cả tâm trí, trái tim và ham muốn của người ấy sẽ tập trung vào những điểm họ thích ở bạn, vì vậy hãy là cô gái quyến rũ nhất trong mắt chàng khi biết phát huy những điểm hấp dẫn của bản thân.
+In addition, the smart girl in love is she is always focused on the points that can attract the love. Your mind, heart and desires will focus on the points that you like, so be the most attractive girl in your eyes when you develop your own charms.
 
-3/ Không làm mất mặt người ấy nơi công cộng
+3 / Do not lose face in public
 
-Làm mất mặt một ai đó trước đám đông, nhất là những người bạn yêu thương nhất là điều hoàn toàn không nên. Nó chỉ khiến cái tôi của người làm cho bị mất mặt kia bị tổn thương. Khi người ta bị tổn thương, họ sẽ trở nên thận trọng hơn với những ứng xử của bản thân để tránh tình trạng bị làm cho mất mặt lần nữa. Dần dần họ sẽ tránh xa bạn ra và mất dần nhu cầu cần chia sẻ nhiều với bạn để tránh rắc rối, cũng không rủ bạn đi đâu chơi với đám bạn riêng nữa.
+Losing someone's face in front of the crowd, especially those you love the most is not something that should be. It only makes the person's ego lose the other. When people get hurt, they become more cautious with their behavior to avoid being made redundant again. Gradually they will stay away from you and lose the need to share more with you to avoid trouble, nor invite you to go to play with your friends anymore.
 
-Bạn nên nhớ không ai là hoàn hảo và sự thật là họ vẫn có thể tái phạm những điều tương tự. Có thể bạn sẽ dễ dàng thấu hiểu những lời tôi nói này hơn bằng cách tự đặt bản thân vào tình huống nếu bạn bị một ai đó làm cho bẽ mặt.
+You should remember that no one is perfect and the truth is that they can still repeat the same thing. You may find it easier to understand my words by putting yourself in the situation if you are humiliated by someone.
 
-4/ Luôn giao tiếp để giải quyết mâu thuẫn nếu có
+4 / Always communicate to resolve conflicts if any
 
-Khi có mâu thuẫn, các bạn không nên giữ nó trong lòng để tự giải quyết hoặc tự thỏa hiệp một mình. Những mâu thuẫn ban đầu ít, nhưng theo thời gian chúng sẽ tích tụ lớn dần. Những mâu thuẫn ấy sẽ lớn đến nỗi bạn không còn sức chịu đựng để tự giải quyết và thỏa hiệp thêm nữa. Nếu để cho đến mức ấy, phần nhiều các bạn đang tự đeo một cái balo nặng trĩu những nỗi phiền muộn vào trong cuộc sống lứa đôi.
+When there is a conflict, you should not keep it in your heart to deal with it or compromise on your own. The initial conflicts are few, but over time they accumulate. These contradictions are so great that you no longer have the capacity to deal with them and compromise. If that's the case, most of you are wearing a heavy back burner in the life of the couple.
 
-Một khi tinh thần không được thoải mái, cảm xúc sẽ không thể nào thăng hoa. Nói chuyện, giao tiếp là những điều rất quan trọng để bạn có thể hiểu người ấy muốn gì, cần gì, không thích gì, yêu gì, ghét gì,… Im lặng luôn là điều đáng sợ trong tình yêu và nó có thể giết chết tình yêu một cách nhanh chóng.
+Once the spirit is not comfortable, emotions will not be able to sublimate. Talking, communicating is very important so that you can understand what he wants, what he wants, what he does not like, what he loves, what he hates, ... Silence is always scary in love and it can kill die love quickly.
 
-5/ Quan tâm đến gia đình của người yêu 
+5 / Interested in the lover's family
 
-Tình yêu và hôn nhân không chỉ là chuyện của hai người mà là chuyện của hai gia đình, hai dòng họ vì vậy đừng bao giờ nghĩ rằng chỉ cần quan tâm đến một mình người ấy là đủ bởi vì người ấy không tự mình được sinh ra, người ấy còn có gốc rễ, cội nguồn. Tình thân là tình cảm thiêng liêng nhất trên đời, thậm chí còn hơn cả tình yêu, vì thế nếu bạn yêu người ấy thì hãy yêu luôn cả gia đình người đó, điều này càng khiến cho người ấy yêu bạn nhiều hơn gấp bội phần.
+Love and marriage are not just about two people but two families, so never think that it is enough to care for the person alone because he or she is not born alone. He also has roots, roots. Love is the most sacred love in the world, even more than love, so if you love him, then love his family as well, this makes him love you more than fold. .
 
-6/ Lắng nghe để cảm thông và thấu hiểu
+6 / Listen for understanding and understanding
 
-Trong giao tiếp, biết lắng nghe là điều quan trọng nhất, nghe để hiểu, hiểu để cảm thông, cảm thông để chia sẽ với nhau. Nếu cả hai có hiểu lầm hay khúc mắc gì chỉ cần có một bên chịu lắng nghe thì mọi việc sẽ nhanh chóng được giải quyết. Đừng im lặng cũng đừng cố tranh chấp, cải vã, hãy bình tâm nghe thử đối phương muốn nói gì và đặt mình vào vị trí của đối phương để hiểu cho họ, có như vậy thì mối quan hệ của cả hai mới lâu bền được.
+In communication, listening is the most important, listening to understand, understand to sympathize, sympathy to share with each other. If both are misunderstood or confounded, only one party is listening, and everything will be resolved quickly. Do not be silent, do not try to argue, change, calmly listen to what the enemy wants to say and put yourself in the position of the enemy to understand them, so that their relationship is durable. .
 
-Tình yêu là một điều tuyệt vời và sâu sắc chiếm toàn bộ tâm hồn của bạn? Hãy thể hiện sự chân thành của mình bằng cách cư xử trong tình yêu chuẩn mực để đối phương thêm cảm mến và gần bạn hơn.
+Love is a wonderful thing and deeply occupy the whole of your soul? Show your sincerity by behaving in a loving and loving way for your partner to be more affectionate and closer to you.

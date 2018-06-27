@@ -1,35 +1,36 @@
 ---
 published: true
 hidden: false
-title: Hãy VÌ YÊU MÀ CƯỚI, đừng kết hôn chỉ vì gia đình hay tuổi tác, đến với nhau khi trái tim thấy cần
+title: LOVE WEDDING, do not get married just because of family or age, come together when the heart seeks
 tags: styling react styled-components
 twitter_large: true
 image: ket-hon.jpg
-custom_excerpt: Tình yêu nên đến từ hai phía, chỉ có từ hai phía thì tình yêu mới thật sự là tình yêu.
+custom_excerpt: Love should come from two sides, only from two sides, love is really love.
+
 ---
 
-Tình yêu cần có sự vun đắp từ cả hai phía, nếu chỉ có một người tự thân vận động thì mối quan hệ ấy cũng sẽ kết thúc thôi nhưng đợi đến lúc đấy thì có lẽ cả hai cũng đã mệt mỏi tới điên đầu lên rồi. 
+Love needs to be cultivated on both sides, if only one person is self-motivated, then the relationship will end, but until then maybe both are tired to go crazy .
 
-Chắc chắn, ai cũng mơ ước được xây đắp một giấc mơ hạnh phúc với người đàn ông mà mình yêu.
+Sure, everyone dreams of building a happy dream with the man he loves.
 
-Tuy nhiên, có những lúc chuyện kết hôn dường như là chuyện không của riêng hai người nữa. Ở đời, vốn dĩ yêu ai cũng có người dèm pha và nói ra nói vào. Người này không hợp tuổi, người kia gia cảnh không ổn định, anh chàng này chưa thật đẹp trai hoặc anh chàng kia có vẻ hơi… hiền.
+However, there are times when the marriage seems to be no more of two people. In life, inherently love someone who denigrates and speaks out. This person is not age, the other family is not stable, this guy is not very handsome or the guy looks a bit ... gentle.
 
-Thế là từ bao giờ chuyện cưới xin của cá nhân một người lại trở thành mối bận tâm ghê gớm lắm của rất nhiều người khác. Từ ba mẹ đến họ hàng thân sơ, bà con lối xóm. Không chỉ từ người thân quen, mà còn là người hơi hơi biết một chút… cũng đưa ra góp ý về sự lựa chọn.
+So ever since the marriage of one individual has become a terrible concern of many others. From parents to relatives, neighbors. Not only from acquaintances, but also people who know a little bit ... also give suggestions on the choice.
 
-Chọn người-mình-yêu!
+Choose your self-love!
 
-Đó chính là ý kiến của Hamlet Trương trong quyển Ai rồi cũng khác: “Nhưng thỉnh thoảng, ta cũng nên mường tượng trước cảnh mình sẽ thức dậy bên cạnh một người mà mình không có gì để đam mê.
+That is the opinion of Hamlet Zhang in the book is different: "But sometimes, I should also imagine the scene that I will wake up next to a person that I have nothing to passion.
 
-Ta không thích mùi tóc, không nhớ nhung những gì từ cơ thể họ. Ta quên việc tự chăm sóc mình, vì không có một người đủ để ta muốn đẹp, muốn giỏi hơn mỗi ngày vì họ”.
+I do not like the smell of hair, do not remember what from their bodies. I forget to take care of myself, because there is not one person enough to want to be beautiful, want to better every day for them.
 
-Chính vì biết yêu người-yêu-mình sẽ như vậy, nên Hamlet Trương nghĩ mình sẽ yêu người-mình-yêu vì: dù khi yêu họ, ta có đớn đau, nhưng trong cái đớn đau ấy cũng hiện diện một niềm hạnh phúc hơn gấp nhiều lần so với khi bản thân ta chọn người mà mình không có cảm xúc khi sống cùng!
+Because I know love-love-I will be like, so thought Hamlet will love-love-me because: when they love me, I have pain, but in the pain is also present a happiness Too many times than when you choose someone you do not have feelings when living together!
 
-Chọn người-mình-yêu sẽ là nỗi đau, nhưng đó sẽ là nỗi đau đẹp nhất, đáng để đau trong suốt cuộc đời này.
+Choosing the one you love will be pain, but it will be the most painful pain worth living in this life.
 
-Ông bà ta ngày trước, nhiều khi ngay cả cha mẹ chúng ta, họ đến với nhau, đôi khi không phải do tình yêu, mà là do sự sắp đặt của bậc làm cha mẹ.
+Our grandfathers, even our parents, sometimes come together, sometimes not because of love, but because of the arrangement of parenthood.
 
-Cha mẹ vẫn hay bảo: “Sống với nhau lâu dài, dù không có tình, nhưng cũng có nghĩa, gắn bó lắm con ạ! Đôi khi để sống mãi bên nhau, không nhất thiết phải có tình yêu đâu, tình thương cũng có sức mạnh như thế!”
+Parents still say: "Living together long-term, even without love, but also means, stick to a child very much! Sometimes to live together, not necessarily love, love also has such power! "
 
-Không yêu nhau, sống chung với nhau sẽ có tình, nhưng là “tình thương”. “Tình thương” ấy được đúc kết từ hôn nhân, trách nhiệm, con cái, nó như một mối dây chắc chắn ràng buộc đôi bên.
+Not love each other, live together will have love, but is "love". This "love" is derived from marriage, responsibility, children, it as a firm bond between the two.
 
-“Tình thương” khiến bạn an toàn, nhưng nó thật nhạt nhòa.
+"Love" makes you safe, but it's faint.
