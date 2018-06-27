@@ -1,34 +1,34 @@
 ---
 published: true
 hidden: false
-title: Phụ nữ không phải là tất cả, nhưng lại khiến đàn ông từ bỏ tất cả nếu có điều này
+title: Women are not everything, but men make up everything if anything
 tags: styling react styled-components
 twitter_large: true
 image: phu-nu-khong.jpg
-custom_excerpt: Một người phụ nữ tuyệt vời luôn khiến các đấng mày râu tình nguyện hi sinh tất cả để dành trọn tình yêu cho họ…
+custom_excerpt: A great woman always makes men willing to sacrifice everything to give them all their love ...
+
 ---
 
-Nhân hậu
+Lenient
 
-Một trái tim bao dung, một tấm lòng nhân ái sẽ chiến thắng và chiếm lĩnh mọi trái trim đàn ông. Đó cũng là sự phân biệt giữa một người phụ nữ đẹp và một con búp bê xinh đẹp nhưng vô hồn. Có thể cảm nhận điều tốt đẹp trong mọi tình huống, nhìn thế giới bằng đôi mắt thân thiện, biết thông cảm và tha thứ cho mọi lỗi lầm, điều này khiến một phụ nữ chiếm được cảm tình của người khác bất kể ngoại hình của cô ấy trông như thế nào.
+A generous heart, a compassionate heart will win and take over every male trim. There is also the distinction between a beautiful woman and a beautiful but lifeless doll. Can feel the good in every situation, see the world with friendly eyes, sympathy and forgiveness for mistakes, this makes a woman win the hearts of others regardless of the appearance of how does she look.
 
-Thông minh
+Clever
 
-Một người phụ nữ thông minh, biết ứng nhân xử thế, làm đẹp mặt chồng mọi lúc mọi nơi. Luôn là niềm khao khát có được của bất kì người đàn ông nào. Cô ấy tinh tế trong cảm xúc, biết cách cân bằng cuộc sống của gia đình sẽ làm cho người đàn ông cô ấy yêu một lòng yêu và nể. Tất nhiên, chồng cô ấy thà mất tất cả chứ nhất quyết không bao giờ muốn mất cô ấy.
+A smart woman, know how to handle manners, beautiful her husband at all times. Always the desire of any man. She is delicate in her emotions, knowing how to balance her family's life will make her man love a love and respect. Of course, her husband would rather lose everything but never want to lose her.
 
-Cá Tính
+Personalities
 
-Một phụ nữ cá tính riêng, mạnh mẽ và quyết đoán luôn thu hút được sự chú ý của đàn ông. Tất nhiên, cá tính ấy sẽ khiến người đàn ông của cô ấy nhận ra đặc trưng riêng của vợ mà không người phụ nữ nào có được. Từ đó họ thêm yêu và trân trọng người phụ nữ của mình hơn.
+A strong, decisive individual woman who always attracts the attention of men. Of course, that personality will make her man recognize her own characteristics that no woman has. From there they add more love and respect to their women.
 
-Trách nhiệm
+Responsibility
 
-Đôi khi đàn ông vô cùng mệt mỏi với gánh nặng trách nhiệm đè nặng lên vai của họ. Vậy khi họ tìm được người phụ nữ yêu họ thật lòng, có trách nhiệm với tình yêu, cuộc sống gia đình, cả về kinh tế – điều đó quả là quá may mắn với họ. Khi đó, người phụ nữ ấy như chìa khóa vạn năng trong cuộc sống của họ để mà họ yêu thương giữ gìn. Bạn hãy là người phụ nữ như vậy nhé!
+Sometimes men are extremely tired with the burden of responsibility on their shoulders. So when they find a woman who loves them sincerely, is responsible for love, family life, both economically - it is so lucky to them. At that time, the woman was like the key to their life so that they would love to keep it. You are such a woman!
 
-Biết yêu thương bản thân và người đàn ông của mình
+Know how to love yourself and your man
 
-Nếu bạn không biết tự yêu thương bản thân mình, thì làm sao anh ấy có thể yêu thương bạn được? Rất nhiều cô gái vì người mình yêu mà hi sinh nhiều thứ, đến mức quên cả sự tồn tại của bản thân. Tất cả đều vì người ta, để rồi đến cuối cùng lại bị người ta bỏ rơi. Dưới nhiều góc độ mà nói, trái tim đàn ông thay đổi một phần là do người phụ nữ.
+If you do not know how to love yourself, how can he love you? Many girls love sacrificing so many things, to the extent of forgetting their own existence. It's all for the people, and then the end is abandoned. In many ways, men's hearts change in part because of the woman.
 
-Biết theo đuổi đam mê
+Know the pursuit of passion
 
-Một người phụ nữ có và biết theo đuổi niềm đam mê của mình sẽ khiến cho đàn ông tôn trọng nể phục, nhất là người ấy lại thành công với niềm đam mê đó. Khi phụ nữ có đam mê, họ luôn căng tràn nhựa sống với sự năng động và nhiệt huyết hết mình. Họ biết làm thế nào cho cuộc sống tươi đẹp và ý nghĩa, tất nhiên đàn ông nào cũng mong có được người vợ như vây.
-
+A woman who has and knows how to pursue her passion will make men respected, especially if she succeeds with that passion. When women are passionate, they are always filled with life and dynamic enthusiasm. They know how to make life beautiful and meaning, of course every man expects to have a wife like.

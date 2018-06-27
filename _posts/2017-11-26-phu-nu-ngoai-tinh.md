@@ -1,35 +1,37 @@
 ---
 published: true
 hidden: false
-title: Khi ngoại tình, phụ nữ thực sự còn đáng sợ hơn đàn ông
+title: When adultery, women are actually more scary than men
 tags: styling react styled-components
 twitter_large: true
 image: khi-ngoai-tinh.jpg
-custom_excerpt: Người ta thường nói trong tình yêu, đàn ông và đàn bà là hai sự khác biệt về ngoại tình.
+custom_excerpt: It is often said in love, men and women are two differences in adultery.
+
 ---
 
-Nếu người đàn ông có thể lên giường với cả những phụ nữ họ không có tình cảm. Thì đàn bà chỉ ngủ với người mà họ yêu. Đàn ông ngoại tình rồi sẽ trở về với vợ con.
+If a man can go to bed with both women they do not have affection. Women only sleep with the person they love. The adulterer will return to his wife and children.
 
-Nhưng có lẽ đối với đàn bà khi đã ngoại tình thì chẳng muốn về nhà nữa, họ sẵn sàng vứt bỏ tất cả nhà cửa, chồng con để đi theo tiếng gọi của trái tim…
+But perhaps for women who do not want to go home when they have an affair, they are willing to throw away all their houses, their husbands, to follow the call of the heart.
 
-Khi yêu, đàn bà thường si mê và điên dại. Họ có thể hết lòng, thậm chí hi sinh vì người đàn ông mà họ yêu thương. Thế nên, không ít đàn bà chấp nhận làm mẹ đơn thân vì trót yêu đàn ông có vợ hay bị đàn ông lừa dối.
+When in love, women are crazy and crazy. They can be wholeheartedly even sacrificed for the man they love. So many women accept a single mother because the man loves to have a wife or a man cheated.
 
-Một người phụ nữ luôn luôn cần có được tình yêu thương của người đàn ông, nhất là người đàn ông bên cạnh họ. Vì người đó mà họ đã đánh đổi tuổi trẻ, dành hết tâm huyết nhưng lại không được đền đáp, vậy chuyện họ ngoại tình cũng chỉ là bước đường cùng.
+A woman should always get the love of the man, especially the man next to them. Because that person they have exchanged youth, dedicating their wholeheartedly but unrepentant, so their affair is just the same way.
 
-Nhưng có một điều chắc chắn rằng, phụ nữ ngoại tình thường vì yêu, vì cảm mến. Nếu họ không thật lòng có tình cảm, họ sẽ không đến với người đàn ông khác vì những nhu cầu sinh lý như đàn ông.
+But one thing is certain, adultery is often because of love, because of affection. If they do not really have feelings, they will not come to other men for physiological needs like men.
 
-Mục tiêu khi ngoại tình của phụ nữ là điều gì?
+What is the purpose of a woman's affair?
 
-Mục tiêu của phụ nữ khi ngoại tình đôi khi không phải xuất phát từ tình dục. Họ thường thiên về cảm xúc, tình cảm hơn là những ham muốn xác thịt. Vì vậy, phụ nữ đã ngoại tình cũng có nghĩa họ không còn thuộc về gia đình nữa.
+The goal of women in adultery sometimes does not come from sex. They tend to be emotional, emotional rather than fleshly. Therefore, adultery also means that they no longer belong to the family.
 
-Trong khi đó, mục tiêu hướng tới của đàn ông khi ngoại tình chỉ là vấn đề tình dục. Khi người phụ nữ chịu “lên giường” với họ một vài lần, họ có thể “từ bỏ” mà không hề tiếc nuối gì. Khi đã “thỏa mãn” xác thịt, thì người phụ nữ thứ kia không còn nhiều ý nghĩa với chàng nữa.
+Meanwhile, the male aim of adultery is just sex. When women are "in bed" with them a few times, they can "give up" without any regrets. When the "flesh" is satisfied, the other woman does not have much meaning to him anymore.
 
-Phụ nữ ngoại tình bị khinh bỉ, coi thường gấp vạn lần đàn ông. Vì sao, vì trong mắt người khác, đàn bà phải là người thủy chung, hết lòng vì chồng con.
+Adultery women are despised, despised often times men. Why, because in the eyes of others, women have to be loyal, whole heartedly for husband and child.
 
-Nhưng sao đàn ông ngoại tình, đàn bà lại không thể. Vì họ không có được tình yêu thương nên họ mới đi ngoại tình.
+But manly adultery, women can not. Because they do not have love, they get adultery.
 
-Tóm lại, khi ngoại tình, phụ nữ luôn là người hứng chịu những thiệt thòi và đau khổ. Bởi khi ngoại tình, đôi khi phụ nữ dâng cả trái tim của mình cho người đàn ông không phải chồng mình.
+In summary, when adultery, women are always suffering and suffering. By adultery, sometimes women give their hearts to men who are not her husband.
 
-Thường thì việc “dâng hiến” đó luôn là một sai lầm. Ngược lại, đàn ông sẽ tìm được cho mình những dư vị ngọt ngào xen lẫn đắng cay từ những mối quan hệ ngoài luồng vụng trộm và tội lỗi ấy.
+Often, "giving" is always a mistake. On the contrary, men will find for themselves the sweet and bitter aftertaste from relationships beyond the burdens and guilt.
 
-Bởi điều họ hướng tới người phụ nữ đó không bao giờ là một tình cảm chân thành.
+Because what they point at to a woman is never a sincere affection.
+

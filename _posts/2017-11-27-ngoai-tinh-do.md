@@ -1,74 +1,73 @@
 ---
 published: true
 hidden: false
-title: Tại sao dù có vợ đẹp con ngoan đàn ông vẫn ngoại tình
+title: Why even with beautiful wife good man still adultery
 tags: styling react styled-components
 twitter_large: true
 image: tai-sao.jpg
-custom_excerpt: Người đàn ông sẽ không cân nhắc xem vợ mình hay cô gái sắp trở thành bồ ai hơn ai. Anh ta cần “đổi gió″ và có người đáp ứng, vậy là đủ.
+custom_excerpt: The man will not consider whether his wife or girl is about to become one. He needs to "change the wind" and someone responds, that's enough.
+
 
 ---
 
-Vô số nam giới thành công và nổi tiếng sẵn sàng đạp đổ hôn nhân và sự nghiệp để vui thú bên ngoài. Tại sao họ làm vậy, khi họ dường như đã có mọi thứ trong tổ ấm: vợ đẹp, con ngoan?
+Numerous successful men and celebrities are poised to break marriages and careers to enjoy the outdoors. Why do they do it, when they seem to have everything in their home: beautiful wife, good child?
 
-Dưới đây là một số giả thuyết:
+Here are some hypotheses:
 
-1. Đàn ông có quyền lực – những người có nhiều cơ hội, là đối tượng dễ bị dụ dỗ, dù vợ họ có hấp dẫn hay không.
+Powerful men - those who are more likely to be tempted, whether their wife is attractive or not.
 
-2. Điều này chỉ chứng minh rằng cố gắng tìm người bạn tình hấp dẫn nhất là một trò ngớ ngẩn. Khi hôn nhân bắt đầu, vợ chồng đẹp hay xấu không quyết định họ sẽ hạnh phúc, buồn, đau, chân thật hay phản bội hay không.
+This just proves that trying to find the best partner is a silly game. When marriage begins, beautiful or bad spouses do not decide whether they will be happy, sad, hurt, honest or betrayed.
 
-3. Không người phụ nữ nào đủ xinh đẹp để giữ được sự chung thủy của một người đàn ông. Việc anh ta có gắn bó trọn vẹn trong mối quan hệ này hay không phụ thuộc vào nhiều yếu tố khác.
+No woman is beautiful enough to keep a man faithful. Whether he is fully engaged in this relationship depends on many other factors.
 
-Dưới đây, chúng ta thử nhìn nhận một số lý do thực sự khiến không ít nam giới vẫn đi tìm phụ nữ khác khi có vợ đẹp:
+Here, let's look at some of the real reasons why many men are still looking for other women when they have beautiful wives:
 
-Người thứ ba đã chờ sẵn
+The third one was waiting
 
-Đây là câu trả lời đơn giản nhất. Khi một người đàn ông đang tìm kiếm cơ hội ngoại tình thì chuyện qua lại với một cô nàng xinh đẹp như người mẫu hay có dung nhan tầm thường chẳng thành vấn đề. Chắc chắn, anh ta thích các cô “người mẫu” hơn nhưng việc tiếp cận họ không đơn giản. Và thường là, nếu họ đã định ngoại tình, họ sẽ tìm người cũng đang sẵn sàng cho việc đó. Dù cô bồ kia có dung mạo thế nào, cô ta muốn anh ta và khiến anh ta cảm thấy thoải mái. Người đàn ông sẽ không ngồi đó để cân nhắc xem vợ mình hơn hay cô gái sắp trở thành bồ anh ta hơn. Anh ta đang cần “đổi gió″ và có người sẵn sàng đáp ứng, vậy là đủ.
+This is the simplest answer. When a man is looking for an adulterous chance, it is not a problem to go back and talk to a beautiful girl like a model or a plain man. Sure, he likes the "model" more but their approach is not simple. And often, if they had committed adultery, they would find someone ready for that. No matter how she looks, she wants him and makes him feel good. The man will not sit there to consider whether his wife or girl is going to become more of him. He needs to "change" and someone is ready to respond, that's enough.
 
-Người vợ nên làm gì: Chẳng gì cả. Anh ta đã định ngoại tình, anh ta sẽ làm vậy. Vấn đề là tự hỏi lại tại sao bạn chọn người đàn ông này làm chồng.
+What the wife should do: Nothing. He had committed adultery, he would do that. The problem is to wonder why you choose this man as husband.
 
-Vợ đẹp đỏng đảnh, khó chiều
+Beautiful wife, very hard
 
-Nếu bạn đỏng đảnh và chỉ yêu bản thân, chẳng mấy chốc người đàn ông sẽ chán ngấy khi thấy bạn chỉ chăm chăm vào việc làm đỏm, ăn diện. Phụ nữ làm dáng quá mức thường xuất phát sâu xa từ sự bất an bên trong, và cả hai kết hợp lại khiến người đàn ông dễ chán. Đàn ông khá đơn giản và hầu hết mọi lúc họ đều muốn những thứ đơn giản. Một cô gái không quá bóng bẩy và không dành quá nhiều thời giờ trước gương sẽ có nhiều thời gian hơn cho người đàn ông của mình.
+If you break up and just love yourself, soon the man will get tired of seeing you just stare at the red, eating. Excessive women often come from inner insecurities, and both combine to make the man easily bored. Men are quite simple and most of the time they want simple things. A girl who is not too polished and does not spend too much time in front of the mirror will have more time for her man.
 
-Người vợ nên làm gì: Dừng lại. Có nhiều thứ còn đáng quan tâm hơn là có mái tóc hoàn hảo hay bờ môi được tô son đẹp tuyệt. Hãy để chàng nghịch mái tóc của bạn, hôn lên đôi môi không tô son và đừng nhìn vào gương cứ 45 giây một lần. Hãy học cách cảm thấy thoải mái khi không có vẻ ngoài hoàn thiện 100% và anh ấy sẽ trân trọng điều đó.
+What the wife should do: Stop. There are many things to consider than perfect hair or lips are beautiful lipstick. Let him play with your hair, kiss your lips and do not look in the mirror every 45 seconds. Learn to feel comfortable without 100% perfect looks and he will cherish it.
 
-Vợ đẹp nhưng xấu tính
+Beautiful but bad wife
 
-Nếu ngoại hình bạn ở mức 7 thì bạn dễ dàng được chấm điểm 10 nếu có tính cách dễ mến. Nhưng nếu bạn đẹp điểm 10 nhưng hay ca thán rên rỉ thì có thể chỉ được chấm điểm 6. Người đàn ông sẽ muốn ở bên một người khiến anh ta cảm thấy vui vẻ hơn là một người cau có, xấu tính dù vẻ ngoài nóng bỏng.
+If you look at level 7 then you easily scored 10 if you have a nice personality. But if you're good at point 10 but whine or whimper can only be scored 6. The man will want to be with someone who makes him feel better than a scoundrel, burn.
 
-Vợ nên làm gì: Cau có, hay nổi giận, lúc nào cũng muốn gây sự chắc chắn là chẳng hấp dẫn chút nào. Khi đó, gương mặt đẹp của bạn có thể sẽ trở thành xấu xí ngay lập tức mỗi lần mở miệng. Hãy nói ít lại một chút nếu không có điều gì tốt đẹp để nói và hành động tử tế hơn với mọi người xung quanh. Nói lời “cảm ơn” và mỉm cười nhiều hơn nữa, không chỉ với chồng và với cả những người khác.
+What to do: Being scared, or angry, always want to make sure is not attractive at all. Then, your beautiful face may become ugly immediately every time you open your mouth. Speak a little bit if nothing is nice to say and act more kindly to the people around you. Say "thank you" and smile more, not just to your husband and to others.
 
-Chồng muốn thứ mới lạ khi vợ đẹp nhưng nhàm chán
+Husband wants something new when his wife is beautiful but boring
 
-Hẹn hò với một cô nàng nóng bỏng luôn là một niềm phấn khích với cánh đàn ông ngay lúc đó. Anh ta hãnh diện muốn khoe vợ đẹp với bạn bè và cả thế giới. Nhưng điều gì xảy ra sau đó, khi vào cuối ngày, bạn chỉ như một bình hoa di động? Hầu hết đàn ông đều cần thêm kích thích. Đúng, đàn ông yêu bằng mắt, và vì thế phim tươi mát luôn hấp dẫn họ. Nhưng có mấy anh xem một bộ phim đen đến lần thứ hai? Họ luôn muốn những thứ mới lạ. Món ăn dù có ngon nhưng thưởng thức mãi cũng chán. Hơn nữa, cái đẹp tàn phai nhanh hơn bạn tưởng. Nếu bạn chẳng đáng yêu, vui vẻ, thú vị – anh ta sẽ nhanh chán thôi.
+Dating a hot girl was always an excitement for the man at the time. He is proud to show off his beautiful wife to his friends and to the world. But what happens next, when at the end of the day, you just like a mobile vase? Most men need extra stimulation. Yes, men love with their eyes, and so fresh movies always appeal to them. But do you guys watch a black movie the second time? They always want something new. The food is delicious, but always tired. Moreover, the beauty fades faster than you think. If you're not cute, fun, interesting - he'll be boring soon.
 
-Người vợ nên làm gì: Chỉ dựa vào vẻ đẹp bên ngoài để giữ tình cảm giống như bạn phơi hết các quân bài của mình ra và kỳ vọng sẽ thắng trong lượt chơi. Hãy đọc, học những điều mới, có sở thích riêng, đi du lịch, tình nguyện – làm những việc khác ngoài việc chỉ làm đẹp và để người khác ngắm.
+What to do: Just rely on the beauty outside to keep your emotions as you expose your cards and expect to win the turn. Read, learn new things, have hobbies, travel, volunteer - do other things than just beautify and let others see.
 
-Người đàn ông muốn bỏ vợ
+The man wants to leave his wife
 
-Đàn ông có người rất hèn nhát. Đôi khi, họ muốn bỏ bạn mà chẳng biết làm thế nào. Hầu hết nam giới ngoại tình vì ham muốn thể xác hơn là cảm xúc nhưng trong trường hợp này, việc anh ta tìm kiếm một người phụ nữ khác có khi chỉ là một trò qua mắt. Đôi khi anh ta dan díu với người khác chỉ vì để dễ bỏ bạn hơn.
+Men are very cowardly. Sometimes, they want to leave you without knowing how. Most men are adulterated by physical desire rather than emotion, but in this case, the fact that he or she is looking for another woman may be a mere sight. Sometimes he communicates with other people just to make it easier for you to leave.
 
-Người vợ nên làm gì: “Đá” anh ta ngay và đừng tốn giọt nước mắt nào. Hãy cho mình cơ hội khác và cần biết không nên làm gì (hay chọn ai) vào lần sau.
+The wife should do: "Stone" him right away and do not waste any tears. Give yourself another chance and know what to do next (or choose who).
 
-Cuối cùng, dù bạn có đẹp cỡ nào, khi chồng muốn ngoại tình, anh ta vẫn ngoại tình. Tất nhiên, không phải người đàn ông nào cũng trăng hoa, thậm chí, dù bạn có đỏng đảnh, hay rên rỉ hay nhàm chán, anh ta vẫn không tìm bóng hồng khác. Tuy nhiên, nếu anh ta làm vậy, trước khi đổ lỗi hay ca thán, đầu tiên hãy thử nhìn lại xem tại sao người đàn ông của mình phản bội, bạn có thể ngạc nhiên trước những phát hiện của mình.
+Finally, no matter how beautiful you are, when your husband wants to commit adultery, he's still having an affair. Of course, not every man is blossoming, even if you have a broken heart, moaning or boring, he is not looking for another one. However, if he does, before blaming or complaining, first try to look back at why his man betrayed, you may be surprised by his findings.
 
-Cách xử lý thông minh khi phát hiện chồng ngoại tình
+Intelligent treatment when the husband discovered adultery
 
-1.Phải bình tĩnh
+1.Must be calm
 
-Bình tĩnh là điều đầu tiên chị em nên có khi phát hiện chồng ngoại tình, đừng để sự mất bình tĩnh mất kiểm soát của mình là điều làm gia đình tan nát. giữ bình tình sẽ giúp bạn đưa ra những phương án hợp lý trong việc xử lý chồng ngoại tình.
+Calming is the first thing that sisters should have discovered the husband's adultery, do not let the loss of control lost his control is what broke the family. Keeping a good relationship will help you make the right choices in dealing with your husband.
 
-Khi biết chồng ngoại tình, hãy có bằng chứng trước đã, bạn phải kiểm tra xem có thật sự chồng mình đã ngoại tình hay không? đừng để sự mất bình tĩnh nghi ngờ làm bạn nghi oan cho chồng. Sự nghi ngờ chỉ khiến bạn giám tiếp phá vỡ hạnh phúc gia đình của chính bạn.
+When you know that your husband has an affair, have proof first, you have to check whether your husband actually had an affair or not. Do not let the suspicion of suspicion make you suspicious of your husband. Suspicion only causes you to damage your own family happiness.
 
-2. Nói chuyện với tình địch, với chồng
+Speak with the rival, with your husband
+If the third person who is having a family is scared of scandal, you should calm down and talk frankly with her and ask to stay away from your husband or else you will take action, say vague. Make sure she agrees and does not disturb your husband. Or maybe it's your husband's fault, not the third one. So talk straight to the third person and find out the truth.
 
-Nếu kẻ thứ 3 đó là người có gia đình họ chắc chắn sợ tai tiếng, bạn nên bình tĩnh và nói chuyện thẳng thắn với cô ta và đề nghị tránh xa chồng bạn nếu không bạn sẽ có biện pháp xử lí, hãy nói mập mờ rõ ràng để cô ta đồng ý và không làm phiền chồng bạn nữa. Hoặc cũng có khi lỗi lại chính ở chồng bạn chứ không phải là người thứ 3 kìa. Do vậy cần nói chuyện thẳng thắn với người thứ 3 rồi tìm ra sự thật.
+On the other hand, talk to your husband, if you cause you to pull your husband and keep happy if the cause of her husband's moon is to talk frankly with your husband and have the correct way. At the same time, you should think carefully about your husband as well as whether it is acceptable. When talking with a third person you should go with friends, close friends, avoid the loss of calm lead to each other.
 
-Mặt khác hãy nói chuyện với chồng, nếu nguyên nhân do bạn thì bạn hãy lôi kéo chồng mình và giữ gìn hạnh phúc còn nếu nguyên nhân do tính trăng hoa của chồng thì hãy nói chuyện thẳng thắn với chồng bạn và có cách xử lí đúng đắn, đồng thời bạn cũng nên suy nghĩ kĩ bản tính chồng mình như vậy liệu có chấp nhận được không? Khi nói chuyện với ngườ thứ 3 bạn nên đi cùng bạn bè, những người thân thiết, tránh tình trạng mất bình tĩnh dẫn đến đáng nhau.
+Please consider yourself
+If you know that your husband has had an affair, be calm and consider yourself to be one of the causes of her husband's affair or not? Sometimes it is because of his new husband to go to adultery.
 
-3. Hãy xem xét bản thân mình
-
-Nếu biết chắc chồng mình đã ngoại tình, hãy bình tĩnh và tự suy xét bản thân xem mình có phải là 1 trong các nguyên nhân khiến chồng ngoại tình hay không? Đôi khi chính vì tại bản thân mình nên chồng mới đi ngoại tình.
-
-Nếu nguyên nhân do bản thân mình thì bạn hãy thay đổi đi nào, ngay từ bây giờ hãy đưa ra “kế sách” tốt nhất thay đổi bản thân và làm những chiêu thức giữ lấy trái tim lôi chồng về phía mình và gia đình nào.
+If it's your own reason for change, now give the best "strategy" to change yourself and do the moves to keep your heart leaning toward you and your family.

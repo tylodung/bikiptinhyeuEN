@@ -1,37 +1,38 @@
 ---
 published: true
 hidden: false
-title: Chớ dại mà phát ngôn ra những câu này, có ngày vợ chồng bỏ nhau
+title: Do not spit out these statements, there are married couple each day
 tags: styling react styled-components
 twitter_large: true
 image: cho-dai.jpg
-custom_excerpt: Dưới đây là những câu nói nên tránh không đề cập tới nếu bạn không muốn một ngày nào đó hôn nhân của mình tan vỡ.
+custom_excerpt: Here are the words that should be avoided if you do not want to break your marriage one day.
+
 ---
 
-“Anh béo quá rồi đấy”
+"You're so fat"
 
-Phái mạnh luôn tỏ ra không quan tâm tới vấn đề cân nặng, điều đó không có nghĩa là bạn có thể nói thả ga về việc giảm cân của anh ấy. Thực tế, anh ấy vẫn cảm thấy bị tổn thương và trở nên tự ti khi nghe người bạn đời của mình phàn nàn về vấn đề hình thể.
+Strongman always shows no interest in weight, that does not mean you can talk about his weight loss. In fact, he still feels hurt and becomes self-conscious when he hears his partner complain about his physical form.
 
-Nếu cân nặng của anh ấy chưa tới mức báo động và không ảnh hưởng xấu tới sức khoẻ, bạn nên giải pháp “im lặng là vàng” và “lặng lẽ” giúp chàng giảm cân bằng cách thay đổi thực đơn ăn uống hàng ngày.
+If your weight is not alarming and does not adversely affect your health, then the "silent gold" and "quiet" solutions help you lose weight by changing your daily diet.
 
-“Tôi không nợ nần ai cả” 
+"I do not owe anybody"
 
-Tài chính là một vấn đề cực kì quan trọng trong hôn nhân. Khi bạn nói dối người bạn đời về vấn đề nhạy cảm này, bạn sẽ rất dễ đập vỡ đi niềm tin trong họ. Nếu thực sự bạn đang phải đối diện với khó khăn về kinh tế, đang nợ nần, hãy nói thật để cả hai cùng tìm cách giải quyết.
+Finance is a very important issue in marriage. When you lie to your partner about this sensitive issue, you will easily break the belief in them. If you are actually facing economic difficulties, are in debt, tell the truth to both find a solution.
 
-Nếu bạn tự mình xoay sở, sự bất an và cách chi tiêu của bạn sẽ khiến đối phương nghi ngờ những điều còn tồi tệ hơn thế nữa. Lúc đó, sự thật bị phơi bày càng khó lấy lại được niềm tin.
+If you manage it yourself, your insecurity and your way of spending will make your doubts worse. At that time, the truth is exposed, the more difficult it is to regain faith.
 
-“Em muốn/không muốn có con”
+"I want / do not want to have children"
 
-Phụ nữ hãy nhớ, khi bạn chuẩn bị kết hôn, hãy cởi mở và trung thực về việc con cái. Tót nhất, hãy nói rõ mong muốn và dự định của bạn trong vấn đề này bởi đây sẽ là điều cực kì quan trọng của hai vợ chồng sau khi cưới.
+Remember, when you are about to get married, be open and honest about your children. Finally, please state your wishes and intentions in this matter because this will be extremely important for the couple after the wedding.
 
-Trường hợp bạn không muốn có con, hoặc muốn có nhiều con, thời điểm nào sinh con… tất cả đều cần phải được nói rõ với nhau.
+If you do not want to have children, or want to have more children, when to give birth ... all need to be told together.
 
-Khi bạn chuẩn bị kết hôn, hãy cởi mở và trung thực về việc con cái. Hãy nói rõ mong muốn và dự định của bạn trong vấn đề này bởi đây sẽ là điều cực kì quan trọng của hai vợ chồng sau khi cưới. 
+When you are ready to marry, be open and honest about your children. Please state your wishes and intentions in this matter as this will be extremely important for the couple after the wedding.
 
-Đừng chỉ vì khi đó muốn lấy lòng nhau, muốn đám cưới diễn ra suôn sẻ mà nói sai đi dự định của mình. Sau này khi về sống cùng hai bên bộc lộ cách nghĩ và cách hành xử với nhau trong vấn đề này sẽ có mâu thuẫn rất lớn khi lời nói trước đây và hiện tại không đồng nhất.
+Do not just because they want to marry each other, want to get married smoothly speaking to his intended. Later on when living with both sides reveal how to think and how to behave together in this issue will be very controversial when the past and present speech is not identical.
 
-Giữa hai chúng ta cần nói chuyện
+Between us we need to talk
 
-5 từ ngắn ngủi này luôn khiến phái mạnh cảm giác như mình sắp phải đối mặt với tử thần bởi vậy họ luôn cau mày khi nghe đối tác nói thế.
+These five short words always make men feel like they are about to face death so they always frown when they hear the partner said.
 
-Thay vì làm nghiêm trọng mọi vấn đề ngay từ khi chưa bắt đầu cuộc đối thoai, bạn nên làm “mềm” câu chuyện để cả hai có tâm lý thoải mái và cởi mở hơn khi bắt đầu tranh luận về những vấn đề “nhạy cảm”.
+Instead of serious problems right from the start of the conversation, you should "soften" the story so that both of you are more relaxed and open minded when you start discussing "sensitive" issues. "
