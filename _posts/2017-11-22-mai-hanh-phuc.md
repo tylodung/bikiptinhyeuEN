@@ -1,34 +1,36 @@
 ---
 published: true
 hidden: false
-title: Làm ngay điều này đầu năm để vợ chồng mãi mãi hạnh phúc, cả năm sum vầy, tình cảm thăng hoa
+title: Do this early this year to the couple forever happy, all five, this love sublimated
 tags: styling react styled-components
 twitter_large: true
 image: nguoi-tinh.jpg
-custom_excerpt: Dưới đây là những điều vợ chồng nên làm ngay ngày đầu năm để cả năm hạnh phúc, tình cảm vợ chồng thăng hoa.
+custom_excerpt: Here are what the couple should do right on New Year's Day to the whole year happy, conjugal love sublimated.
+
 
 ---
 
-Nói những điều tích cực
+Say positive things
 
-Một lời khen chân thành hay những điều tốt đẹp về công việc, đóng góp của chồng trong gia đình… sẽ thể hiện được sự tôn trọng của bạn và khiến anh xã cảm thấy mình được yêu. Cách này sẽ khiến người đàn ông muốn cố gắng hơn nữa để giữ được hình ảnh đẹp trong mắt vợ.
+A good compliment or good work, your husband's contribution ... will show your respect and make you feel loved. This will make the man want to try harder to keep the beautiful image in his wife's eyes.
 
-Không cãi lộn
+No quarrel
 
-Đừng bắt đầu một ngày mới, một năm mới bằng một cuộc cãi nhau giữa hai vợ chồng. Hãy cố gắng giữ im lặng, bình tĩnh và hoãn sự bực tức hoặc vấn đề nào đó chưa hài lòng sang một ngày khác để giải quyết. Một sự bất đồng lúc này có thể làm hỏng tâm trạng của ngày mới. Nó sẽ ám ảnh khiến bạn tin rằng cả năm nay hai vợ chồng sẽ toàn những cãi vã.
+Do not start a new day, a new year with a fight between the couple. Try to remain silent, calm and postpone anger or an unhappy problem to another day to resolve. A disagreement can break the mood of the day. It will make you believe that this year the couple will be quarrelsome.
 
-Tôn trọng sở thích của nhau
+Respect each other's preferences
 
-“Chúng tôi nhận ra rằng dù sống chung nhưng ai cũng có sở thích và quyền tự do cá nhân. Chúng tôi không muốn gây áp lực cho người bạn đời của mình, khiến họ phải từ bỏ niềm yêu thích, niềm vui của bản thân chỉ bởi sự nhỏ nhen của người còn lại.”
+"We realize that despite living together, everyone has their own personal preferences and freedoms. We do not want to put pressure on our spouse, so they have to give up their love, their joy only because of the little ones. "
 
-Không dọa chia tay
+Do not threaten to break up
 
-Hãy cẩn thận với những lời nói mà bạn thốt ra sau khi cãi nhau. Bạn có thể gọi tên và chửi mắng người khác, nhưng điều đó không có nghĩa là bạn bắt đầu đe dọa chia tay với chồng. Những lời nói chua chát này sẽ in sâu trong tâm trí anh ấy sau khi hai bạn làm hòa. Nếu không đấu tranh được với lý trí thì anh ta sẽ chấp nhận sự đe dọa của bạn và sẽ chia tay.
+Be careful with the words that you uttered after the quarrel. You can call and curse others, but that does not mean you start threatening to break up with your husband. These sarcasm will be deep in his mind after the two of you make peace. If you do not fight with reason then he will accept your threat and will break up.
 
-Cùng nhau dọn dẹp nhà cửa
+Together to clean the house
 
-Nếu bạn không quan tâm đến tiệc tùng, cả hai vợ chồng có thể dành thời gian cùng nhau để làm việc nhà. Mục đích của điều này là khiến tổ ấm của mình được xinh xắn, đẹp đẽ, sạch sẽ hơn, và quan trọng là cả hai có thời gian bên nhau, chia sẻ cùng nhau.
+If you are not interested in partying, both spouses can spend time together to do housework. The purpose of this is to make our home beautiful, beautiful, clean, and importantly both have time together, sharing together.
 
-Khiến chồng nhận ra anh ấy quan trọng với bạn
+Get your husband to recognize him as important to you
 
-Thường những người chồng vẫn luôn canh cánh trong lòng nỗi lo lắng: “Liệu cô ấy có hạnh phúc khi lấy mình không?” và họ sẵn sàng theo hỏi bạn mỗi ngày. Hãy khiến chồng cảm thấy yên tâm vào bạn, điều này vừa khiến anh ấy yêu bạn hơn, lại có thể giúp anh ấy nhận thức được trách nhiệm của mình.
+Often husbands are always anxious: "Will she be happy to marry me?" And they are ready to ask you every day. Make your husband feel comfortable about you, this just makes him love you more, can help him realize his responsibility.
+
