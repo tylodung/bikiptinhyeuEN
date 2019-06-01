@@ -3,7 +3,7 @@ title: "Love"
 url-title: "Love"
 description: "Doan Binh"
 paginate: 100
-url: "http://stephendesin.info/"
+url: "https://bikiptinhiu.netlify.com/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
